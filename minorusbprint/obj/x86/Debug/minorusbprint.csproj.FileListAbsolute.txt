@@ -1,0 +1,4 @@
+D:\projects\git\minor-usb-print\minorusbprint\minorusbprint\bin\Debug\minorusbprint.exe
+D:\projects\git\minor-usb-print\minorusbprint\minorusbprint\bin\Debug\minorusbprint.pdb
+D:\projects\git\minor-usb-print\minorusbprint\minorusbprint\obj\x86\Debug\minorusbprint.exe
+D:\projects\git\minor-usb-print\minorusbprint\minorusbprint\obj\x86\Debug\minorusbprint.pdb

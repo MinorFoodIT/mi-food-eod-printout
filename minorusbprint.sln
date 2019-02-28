@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minorusbprint", "minorusbprint\minorusbprint.csproj", "{829BF64B-ADE5-43AC-8E28-2BDB30E90B43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{829BF64B-ADE5-43AC-8E28-2BDB30E90B43}.Debug|x86.ActiveCfg = Debug|x86
+		{829BF64B-ADE5-43AC-8E28-2BDB30E90B43}.Debug|x86.Build.0 = Debug|x86
+		{829BF64B-ADE5-43AC-8E28-2BDB30E90B43}.Release|x86.ActiveCfg = Release|x86
+		{829BF64B-ADE5-43AC-8E28-2BDB30E90B43}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
